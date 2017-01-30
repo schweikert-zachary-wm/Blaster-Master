@@ -1,0 +1,14 @@
+*.ICO
+Blaster Master/bin/Debug/bgm.wav
+*.manifest
+Blaster Master/bin/Debug/dive.wav
+*.wav
+*.user
+Blaster Master/ClassDiagram1.cd
+*.Cache
+Blaster Master/obj/Release/BlasterMaster.Form1.resources
+*.pdb
+*.resx
+Blaster Master/Resources/background.bmp
+*.bmp
+Blaster Master/Properties/Settings.settings
